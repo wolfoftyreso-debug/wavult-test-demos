@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{t}from"./keys-screen-CpaH3vaK.js";import{w as n}from"./index-CVmteOUx.js";var r=e();function i(){let{slug:e}=n({from:`/t/$slug/keys`});return(0,r.jsx)(t,{tenantSlug:e})}export{i as component};

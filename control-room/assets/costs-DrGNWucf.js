@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{S as t}from"./index-CVmteOUx.js";var n=e(),r=()=>(0,n.jsx)(t,{to:`/control`});export{r as component};

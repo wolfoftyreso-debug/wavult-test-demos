@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{w as t}from"./index-CVmteOUx.js";import{n}from"./vault-screen-DlKhWyLX.js";var r=e();function i(){let{slug:e}=t({from:`/t/$slug/credentials`});return(0,r.jsx)(n,{tenantSlug:e})}export{i as component};

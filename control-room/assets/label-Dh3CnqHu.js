@@ -1,0 +1,1 @@
+import{t as e}from"./react-DB-4Zxce.js";import{r as t}from"./useRouter-CnG7R4es.js";import{t as n}from"./utils-K9yYKJkT.js";e();var r=t();function i({className:e,...t}){return(0,r.jsx)(`label`,{className:n(`mb-1 block text-[13px] font-medium text-muted`,e),...t})}export{i as t};

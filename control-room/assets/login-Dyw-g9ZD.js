@@ -1,0 +1,1 @@
+import{t as e}from"./login-screen-DeUI21oG.js";var t=e;export{t as component};

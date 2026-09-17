@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-CnG7R4es.js";import{t}from"./utils-K9yYKJkT.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{className:t(`animate-pulse rounded-md bg-elevated`,e),...r})}export{r as t};
