@@ -1,2 +1,8 @@
-# wavult-test-demos
-TEST demos: Apifly, UAAC, UAPIX, Control Room — Landvex AB. Not production.
+# Wavult TEST demos
+
+Public TEST surfaces for Landvex AB. Not production.
+
+- Apifly
+- UAAC
+- UAPIX
+- Control Room
